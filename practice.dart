@@ -3,5 +3,5 @@
 // Write a simple program that prints your name to the screen.
 
 void main() {
-  print('Aziirwe Mercy'); // Replace with your actual name
+  print('Aziirwe Mercy'); 
 }
